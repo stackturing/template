@@ -27,7 +27,7 @@ body:
 - type: textarea
   id: version
   attributes:
-    label: Relevant Sersions
+    label: Relevant Versions
     placeholder: v1.22.0
   validations:
     required: true
